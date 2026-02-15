@@ -59,8 +59,8 @@ export default function Home() {
             
             {/* Profile Image */}
             <Avatar
-              src="/profile.webp"
-              alt="Looper"
+              src="/profile.jpg"
+              alt="Emad"
               sx={{
                 width: 180,
                 height: 180,
@@ -105,7 +105,7 @@ export default function Home() {
               <Tooltip title="GitHub" arrow placement="top">
                 <IconButton 
                   component="a"
-                  href="https://github.com/iamlooper"
+                  href="https://github.com/emadseed"
                   target="_blank"
                   rel="noopener noreferrer"
                   size="large"
@@ -129,7 +129,7 @@ export default function Home() {
               <Tooltip title="Telegram" arrow placement="top">
                 <IconButton 
                   component="a"
-                  href="https://t.me/iamlooper"
+                  href="https://t.me/emadseed"
                   target="_blank"
                   rel="noopener noreferrer"
                   size="large"
