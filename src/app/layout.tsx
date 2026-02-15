@@ -5,13 +5,13 @@ import { Header } from './components/Header';
 import InitColorSchemeScript from '@mui/material/InitColorSchemeScript';
 
 export const metadata: Metadata = {
-  title: "Looper",
-  description: "Software Developer Showcase",
+  title: "Emad",
+  description: "Amazing Guy Showcase",
   keywords: "software developer, flutter, python, android development, web APIs",
-  authors: [{ name: "iamlooper" }],
+  authors: [{ name: "Emad" }],
   openGraph: {
-    title: "Looper",
-    description: "Software Developer Showcase",
+    title: "Emad",
+    description: "Amazing Guy Showcase",
     type: "website",
   },
 };
